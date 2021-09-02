@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: lightblue;
+}
+.profile{
+	color:darkgreen;
+	margin-left: 520px;
+	font-size: 30px;
+	margin-top: 50px;
+}
+.name{
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-top:15px;
+	align-items: center;
+	margin-left: 530px;
+}
+.username{
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-top:15px;
+	align-items: center;
+	margin-left: 530px;
+}
+.add{
+	color: darkgreen;
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-left: 710px;
+	margin-bottom: 30px;
+	margin-top: -20px
+}
+.create{
+	color: darkgreen;
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-left: 560px;
+	margin-bottom: 10px;
+}
+
+.add:hover {
+	color: white;
+	background-color: darkgreen;
+	pointer: cursor;
+}
+.create:hover{
+	color: white;
+	background-color: darkgreen;
+	pointer: cursor;
+}
+.log{
+	text-decoration: none;
+	color:green;
+	margin-left: 545px;
+	
+}
+.log:hover{
+	color:black;
+}

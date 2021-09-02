@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: lightblue;
+}
+.login{
+	color: darkgreen;
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-left: 590px;
+	margin-top: 15px;
+	
+}
+.login:hover {
+	color: white;
+	background-color: darkgreen;
+	pointer: cursor;
+}
+
+.userinput{
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-top:150px;
+	align-items: center;
+	margin-left: 540px;
+	
+}
+.userpass{
+	border: darkgreen solid 2px;
+	padding:5px;
+	margin-top: 15px;
+	align-items: center;
+	margin-left: 540px;
+}
+
+.title{
+	color:darkgreen;
+	margin-left: 520px;
+	font-size: 30px;
+	margin-top: 50px;
+}
+.profile{
+	text-decoration: none;
+	text-align: centre;
+	color: darkgreen;
+	margin-left: 535px;
+	margin-top: 15px;
+}
+.profile:hover {
+	color:black;
+}
